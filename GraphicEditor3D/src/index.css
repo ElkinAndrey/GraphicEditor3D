@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("../public/fonts/Montserrat.ttf");
+}
+
+* {
+  font-family: Montserrat;
+}
+
+html body {
+  margin: 0px;
+  color: #ffffff;
+}
+
+button {
+  border: 0px;
+  border-radius: 4px;
+  background: #36373d;
+  padding: 10px;
+  color: white;
+  margin-right: 3px;
+}
